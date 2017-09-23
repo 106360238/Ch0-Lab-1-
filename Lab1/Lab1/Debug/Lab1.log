@@ -1,0 +1,5 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(368,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  Main.c
+c:\c_code\ch1_lab1\source\main.c(7): warning C4013: 'system' 未定義; 假設 extern 傳回整數
+  Lab1.vcxproj -> C:\c_code\Ch1_Lab1\Lab1\Lab1\..\..\temp\debug\Lab1.exe
+  Lab1.vcxproj -> ..\..\temp\debug\Lab1.pdb (Partial PDB)
